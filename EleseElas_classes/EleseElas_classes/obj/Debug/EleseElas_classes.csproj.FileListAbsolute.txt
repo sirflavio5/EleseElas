@@ -1,0 +1,10 @@
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\bin\Debug\EleseElas_classes.exe.config
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\bin\Debug\EleseElas_classes.exe
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\bin\Debug\EleseElas_classes.pdb
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\obj\Debug\EleseElas_classes.csprojAssemblyReference.cache
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\obj\Debug\EleseElas_classes.Form1.resources
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\obj\Debug\EleseElas_classes.Properties.Resources.resources
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\obj\Debug\EleseElas_classes.csproj.GenerateResource.cache
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\obj\Debug\EleseElas_classes.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\obj\Debug\EleseElas_classes.exe
+C:\Users\Flavio\source\repos\EleseElas_classes\EleseElas_classes\obj\Debug\EleseElas_classes.pdb
